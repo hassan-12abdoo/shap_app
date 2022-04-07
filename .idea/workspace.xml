@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92a4a3c2-a342-4cbd-8714-f3adefa1607c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Shop_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/kotlin/com/example/my_shop/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/fonts/MontserratAlternates-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/fonts/MontserratAlternates-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/accessories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/babies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/bags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/clothes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/drawer_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/eyewear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/female.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/footwear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/jewelery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/male.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/price.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/unisex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/watches.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/assets/images/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/PaymentCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/api_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/cart_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/checkout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/customer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/product.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/models/vendor.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/providers/cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/providers/product_options.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/providers/products_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/providers/user_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/add_product_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/auth_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/cart_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/checkout_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/collecting_data_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/edit_product_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/filter_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/product_details_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/products_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/splash_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/transit_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/vendor_screens/add_product_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/screens/vendor_screens/products_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/add_product_widgets/add_product_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/add_product_widgets/categories_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/add_product_widgets/for_who_section.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/add_product_widgets/section_title.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/auth_widgets/auth_background.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/auth_widgets/auth_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/auth_widgets/auth_title.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/auth_widgets/reset_password_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/cart_widgets/cart_item_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_screen/collecting_data_title.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_screen/collecting_first.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_screen/collecting_second.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_widgets/collecting_data_one.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_widgets/collecting_data_title.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/collecting_data_widgets/collecting_data_two.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/edit_product_widgets/edit_product_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/agreement_dialog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/arrow_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/customer_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/drawer_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/image_frame.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/left_arrow_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/my_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/product_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/product_option_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/product_options_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/right_arrow_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/shopping_cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/switch_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/misc/vendor_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/product_details_widgets/add_review_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/lib/widgets/product_details_widgets/review_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_shop/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27Rr2ybRu8qj8cQTmzjjZ5f4KLs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat_app" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Hassan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92a4a3c2-a342-4cbd-8714-f3adefa1607c" name="Default Changelist" comment="" />
+      <created>1649293535876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649293535876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1649295663409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649295663409" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1649293953388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1649293953388" />
+  </component>
+</project>
